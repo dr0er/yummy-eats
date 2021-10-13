@@ -1,1 +1,5 @@
-### yummy-eats is responsively styled frontend template for a food delivery service, such as UberEats
+## 🔊 `Project name:` yummy-eats
+
+## 🔧 `Used technologies:` HTML, CSS
+
+## 👀 `Brief overview:` responsively coded layout of food-delivery service
