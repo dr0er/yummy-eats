@@ -1,5 +1,7 @@
+## 👨‍💻 `Run: npm i & npm start`
+
 ## 🔊 `Project name:` yummy-eats
 
 ## 🔧 `Used technologies:` HTML, CSS
 
-## 👀 `Brief overview:` responsively coded layout of food-delivery service
+## 👀 `Brief overview:` Simple, responsive front-end interface of food-delivery application
